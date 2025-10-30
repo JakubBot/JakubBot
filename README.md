@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+### 🛠️ Technologie i narzędzia
+![My Skills](https://skillicons.dev/icons?i=python,js,react,nodejs,express,mongodb,docker,linux,git)
+
 <!--
 **JakubBot/JakubBot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
