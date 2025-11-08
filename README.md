@@ -2,7 +2,7 @@
 
 I’m a 5th-semester Computer Science student at Gdańsk University of Technology and a fullstack developer with over 2 years of commercial web development experience. I build both user-facing interfaces and backend services — from frontend UX to APIs and databases.
 
-## 🪴 Quick bio
+## 📘 Quick bio
 
 🎓 Current: 5th semester, Computer Science — Gdańsk University of Technology
 
